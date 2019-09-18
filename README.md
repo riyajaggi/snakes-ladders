@@ -8,12 +8,15 @@ Classic game application coded in C++
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Files](#files)
+* [Usage](#usage)
 * [Screenshots](#screenshots)
+    
     
 <a name="introduction"></a>
 ## Introduction
 
 This project was created in 2016 by Riya Jaggi for Grade XI Computer Science Project. The aim was to create an entertainment app that demonstrated basic computer science principles studied during the course. This game incorporates structures, random function and control statements like if-else, switch case. The game also uses text color to improve the user interaction. 
+
 
 <a name="technologies"></a>
 ## Technologies
@@ -31,10 +34,18 @@ The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/proj
 - iomanip
 - time.h
 
+
 <a name= "files"></a>
 ## Files
 CS_Project_Riya_Jaggi.cpp : source code  
 CS_Project_Riya_Jaggi.exe : executable file that runs using DevC++
+
+
+<a name= "usage"></a>
+## Usage
+
+Please do not use the project without asking permission. Using the project means copying or downloading files and then submitting it as your own.
+
 
 <a name="screenshots"></a>
 ## Screenshots
