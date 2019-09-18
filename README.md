@@ -33,14 +33,14 @@ The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/proj
 <a name="screenshots"></a>
 ## Screenshots
 
-[Welcome Screen](https://drive.google.com/uc?export=view&id=1T8EGgcj3sm7LXESSkaPEMlQqcr2F5Ex2)
+![Welcome Screen](https://drive.google.com/uc?export=view&id=1T8EGgcj3sm7LXESSkaPEMlQqcr2F5Ex2)
 
-[Start of the Game](https://drive.google.com/uc?export=view&id=1HNkrcOeiPShUauIUwrDP41pcHJSr89j1)
+![Start of the Game](https://drive.google.com/uc?export=view&id=1HNkrcOeiPShUauIUwrDP41pcHJSr89j1)
 
-[Game Round](https://drive.google.com/file/d/1uzdN8W2QBTtPzn7a55GYv3YU4cfqgrqs)
+![Game Round](https://drive.google.com/uc?export=view&id=1uzdN8W2QBTtPzn7a55GYv3YU4cfqgrqs)
 
-[Ladder](https://drive.google.com/uc?export=view&id=138uGjLtbNAJebm7TyacM44Iey0op99Fa)
+![Ladder](https://drive.google.com/uc?export=view&id=138uGjLtbNAJebm7TyacM44Iey0op99Fa)
 
-[Snake](https://drive.google.com/uc?export=view&id=1uxAd1rRLJapgN74-xiJ7SQFC6ddb6qat)
+![Snake](https://drive.google.com/uc?export=view&id=1uxAd1rRLJapgN74-xiJ7SQFC6ddb6qat)
 
 
