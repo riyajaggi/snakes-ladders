@@ -5,7 +5,7 @@ Classic game application coded in C++
 
 ## Table of Contents
 
-* [Introduction] (https://github.com/riyajaggi/snakes-ladders#introduction)
+* [Introduction] <https://github.com/riyajaggi/snakes-ladders#introduction>
 * [Technologies] (#technologies)
 * [Screenshots] (#screenshots)
     
@@ -20,6 +20,7 @@ This project was created in 2016 by Riya Jaggi for Grade XI Computer Science Pro
 The code was written and compiled in DevC++ using the C++ programming language. Dev-C++ is a free full-featured integrated development environment distributed under the GNU General Public License for programming in C and C++. 
 
 The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/projects/orwelldevcpp/>
+
 
 **Header files used:**
 - iostream
