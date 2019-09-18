@@ -7,6 +7,7 @@ Classic game application coded in C++
 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
+* [Files](#files)
 * [Screenshots](#screenshots)
     
 <a name="introduction"></a>
@@ -29,6 +30,11 @@ The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/proj
 - windows.h
 - iomanip
 - time.h
+
+<a name= "files"></a>
+## Files
+CS_Project_Riya_Jaggi.cpp : source code 
+CS_Project_Riya_Jaggi.exe : executable file that runs using DevC++
 
 <a name="screenshots"></a>
 ## Screenshots
