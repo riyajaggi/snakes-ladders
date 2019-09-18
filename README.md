@@ -15,7 +15,7 @@ Classic game application coded in C++
 
 ## Introduction
 
-This project was created in 2016 by Riya Jaggi for Grade XI Computer Science Project. The aim was to create an entertainment app that demonstrated basic computer science principles studied during the course. This game incorporates structures, random function and control statements like if-else, switch case. The game also uses text color to improve the user interaction.
+This project was created in 2016 by Riya Jaggi for Grade XI Computer Science Project. The aim was to create an entertainment app that demonstrated basic computer science principles studied during the course. This game incorporates structures, random function and control statements like if-else, switch case. The game also uses text color to improve the user interaction.   
 
 ---
 
