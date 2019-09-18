@@ -25,7 +25,7 @@ The code was written and compiled in DevC++ using the C++ programming language. 
 
 The 2016 version of DevC++ can be downloaded here: <https://sourceforge.net/projects/orwelldevcpp/>
 
-
+   
 Header files used:
     - iostream
     - stdio.h
