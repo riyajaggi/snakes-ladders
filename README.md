@@ -5,7 +5,7 @@ Classic game application coded in C++
 
 ## Table of Contents
 
-* [Introduction]<https://github.com/riyajaggi/snakes-ladders#introduction>
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
     
